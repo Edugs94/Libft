@@ -1,7 +1,4 @@
 # Libft
-Custom C Library Implementation
-
-## 📝 Description
 
 **Libft** is a custom C library developed to deepen the understanding of low-level memory management and standard data processing. The project involves the rigorous re-implementation of essential **C Standard Library** functions to analyze their underlying behaviors and architectural logic.
 
